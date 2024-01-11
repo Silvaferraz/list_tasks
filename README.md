@@ -1,4 +1,4 @@
-| -------------------------|
+
 | Projeto Lista de Tarefas |  
 | -------------------------|
 -> JavaScript
@@ -7,5 +7,5 @@
 -> Webpack
 -> Json Server
 <hr>
-FRONTEND: Baixar e rodar o comando <code>npm run dev</code>
-API: Baixar e rodar o comando <code>npm run dev</code>
+<strong>FRONTEND:</strong> Baixar e rodar o comando <code>npm run dev</code> <br>
+<strong>API:</strong> Baixar e rodar o comando <code>npm run dev</code>
